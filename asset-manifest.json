@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Aymaq-code/To-do-List/static/css/main.3fd8c2d2.css",
-    "main.js": "/Aymaq-code/To-do-List/static/js/main.a48f5ebb.js",
-    "static/media/OpenSans-Light.ttf": "/Aymaq-code/To-do-List/static/media/OpenSans-Light.1c2fe8db2df1ef1d0305.ttf",
-    "static/media/OpenSans-SemiBold.ttf": "/Aymaq-code/To-do-List/static/media/OpenSans-SemiBold.368e59177008be64abda.ttf",
-    "index.html": "/Aymaq-code/To-do-List/index.html",
-    "main.3fd8c2d2.css.map": "/Aymaq-code/To-do-List/static/css/main.3fd8c2d2.css.map",
-    "main.a48f5ebb.js.map": "/Aymaq-code/To-do-List/static/js/main.a48f5ebb.js.map"
+    "main.css": "/To-do-List/static/css/main.7c905c02.css",
+    "main.js": "/To-do-List/static/js/main.a48f5ebb.js",
+    "static/media/OpenSans-Light.ttf": "/To-do-List/static/media/OpenSans-Light.1c2fe8db2df1ef1d0305.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/To-do-List/static/media/OpenSans-SemiBold.368e59177008be64abda.ttf",
+    "index.html": "/To-do-List/index.html",
+    "main.7c905c02.css.map": "/To-do-List/static/css/main.7c905c02.css.map",
+    "main.a48f5ebb.js.map": "/To-do-List/static/js/main.a48f5ebb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fd8c2d2.css",
+    "static/css/main.7c905c02.css",
     "static/js/main.a48f5ebb.js"
   ]
 }
