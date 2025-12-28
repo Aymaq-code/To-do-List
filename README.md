@@ -1,16 +1,24 @@
 # 📒 To-Do List React App
 
-A stylish and interactive to-do list application built with **React**. Add, search, and delete task with a clean, responsive UI.
+A stylish and interactive to-do list application built with React. Add, search, and delete tasks with a clean, responsive UI and real-time text highlighting.
 
 ---
 
 ## 🎯 Features
 
-- Add tasks with a title and description
-- Live search with **highlighted results**
-- Remove individual notes or clear all
-- Beautiful **blurred background** and conic gradient styling
-- Responsive for desktop, tablet, and mobile
+✨ Add tasks with a title and description
+
+🔍 Smart Search with highlighted matching text in real-time
+
+🗑️ Remove individual notes or clear all at once
+
+🎨 Beautiful blurred background and conic gradient styling
+
+🌓 Dark/Light mode toggle
+
+📱 Fully responsive for desktop, tablet, and mobile
+
+🎯 Text highlighting with custom color support (#b45309)
 
 ---
 
@@ -22,11 +30,7 @@ A stylish and interactive to-do list application built with **React**. Add, sear
 
 ## 🛠️ Built With
 
-- **React**
-- **CSS3** (custom variables, blur effect, gradients)
+- **React** (Hooks, Components)
+- **Redux** (State Management)
+- **CSS3** (Custom variables, blur effects, gradients)
 - **JavaScript (ES6+)**
-- `useReducer` for cleaner state management
-
----
-
-## 📁 Project Structure
