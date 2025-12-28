@@ -24,7 +24,7 @@ A stylish and interactive to-do list application built with React. Add, search, 
 
 ## 🌐 Live Demo
 
-👉 [Live Preview](https://Aymaq-code.github.io/notepad-app/)
+👉 [Live Preview](https://Aymaq-code.github.io/To-d-List/)
 
 ---
 
