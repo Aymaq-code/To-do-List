@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/To-do-List/static/css/main.e2e2ac03.css",
-    "main.js": "/To-do-List/static/js/main.a48f5ebb.js",
+    "main.css": "/To-do-List/static/css/main.ee09a6a8.css",
+    "main.js": "/To-do-List/static/js/main.56c0279a.js",
     "static/media/OpenSans-Light.ttf": "/To-do-List/static/media/OpenSans-Light.1c2fe8db2df1ef1d0305.ttf",
     "static/media/OpenSans-SemiBold.ttf": "/To-do-List/static/media/OpenSans-SemiBold.368e59177008be64abda.ttf",
     "index.html": "/To-do-List/index.html",
-    "main.e2e2ac03.css.map": "/To-do-List/static/css/main.e2e2ac03.css.map",
-    "main.a48f5ebb.js.map": "/To-do-List/static/js/main.a48f5ebb.js.map"
+    "main.ee09a6a8.css.map": "/To-do-List/static/css/main.ee09a6a8.css.map",
+    "main.56c0279a.js.map": "/To-do-List/static/js/main.56c0279a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2e2ac03.css",
-    "static/js/main.a48f5ebb.js"
+    "static/css/main.ee09a6a8.css",
+    "static/js/main.56c0279a.js"
   ]
 }
